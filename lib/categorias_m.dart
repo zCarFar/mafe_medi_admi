@@ -1,6 +1,6 @@
 import 'package:flutter/material.dart';
-import 'common_bottom_navigation.dart';
-import 'CustomDrawer.dart';
+import 'Widgets/common_bottom_navigation.dart';
+import 'Widgets/CustomDrawer.dart';
 
 class CategoriasM extends StatelessWidget {
   CategoriasM();

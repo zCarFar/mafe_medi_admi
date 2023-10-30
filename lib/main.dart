@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
-import 'package:mafe_medi_2/productos.dart';
+import 'package:mafe_medi_2/productos/productos.dart';
 import 'homepagead.dart';
-import 'common_bottom_navigation.dart';
+import 'Widgets/common_bottom_navigation.dart';
 
 void main() {
   runApp(MaterialApp(

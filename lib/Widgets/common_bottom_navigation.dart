@@ -1,8 +1,8 @@
 import 'package:flutter/material.dart';
-import 'homepagead.dart';
-import 'buttom_N.dart';
-import 'categorias_m.dart';
-import 'productos.dart';
+import '../homepagead.dart';
+import '../buttom_N.dart';
+import '../categorias_m.dart';
+import '../productos/productos.dart';
 
 class CommonBottomNavigation extends StatelessWidget {
   final int currentIndex;

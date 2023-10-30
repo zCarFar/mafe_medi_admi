@@ -1,7 +1,7 @@
 import 'package:flutter/material.dart';
 import 'homepagead.dart';
-import 'common_bottom_navigation.dart';
-import 'productos.dart';
+import 'Widgets/common_bottom_navigation.dart';
+import 'productos/productos.dart';
 
 class ButtonN extends StatefulWidget {
   const ButtonN({Key? key}) : super(key: key);
